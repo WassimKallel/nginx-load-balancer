@@ -1,8 +1,8 @@
-#nginx-load-balancer
+# nginx-load-balancer
 
 This is a docker image for easy nginx load balancing applications.
 
-## Build the image 
+### Build the image 
 
 1. Clone the repository.
 2. Navigate to it.
@@ -14,7 +14,7 @@ docker build -t nginx-load-balancer .
 
 Now you should be able to use the load balancer.
 
-## Usage:
+### Usage:
 
 You can run a docker container using this command:
 
